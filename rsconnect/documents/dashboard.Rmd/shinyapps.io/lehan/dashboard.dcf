@@ -1,0 +1,12 @@
+name: dashboard
+title: dashboard
+username: lehan
+account: lehan
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10836947
+bundleId: 8076726
+url: https://lehan.shinyapps.io/dashboard/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
